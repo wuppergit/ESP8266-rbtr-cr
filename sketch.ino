@@ -4,7 +4,7 @@
  *  Sensoren
  *  Helligeitssuche mit Servo und LDR
  *  
- *  11.08.2020      status: working  (jedoch nicht am Auto ausprobiert!)
+ *  04.10.2020      status: working  
  *  MCU:            ESP8266 (ESP-12E Module)
  *  Funktion:       An / Aus sowie PWM-Beschleunigungs- und -Verzögerungsfunk. 
  *                  2 Motore
